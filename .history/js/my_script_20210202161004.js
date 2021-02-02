@@ -60,7 +60,6 @@
       $(this.el).turn({
         gradients: true,
         acceleration: true,
-        direction: "rtl",
       });
       // hide the body overflow
       document.body.className = "hide-overflow";
