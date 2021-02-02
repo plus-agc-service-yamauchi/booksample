@@ -58,6 +58,6 @@
       document.body.className = "hide-overflow";
     },
   };
-  direction: "rtl",
+
   module.init("book");
 })();
