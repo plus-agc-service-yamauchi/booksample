@@ -8,25 +8,25 @@ body.hide-overflow {
   /* overflow: hidden; */
 }
 
-#menu_one {
-  background-color: #333;
+#menu_one{
+background-color:#333;
 }
 
-#menu_two {
-  background-color: #777;
+#menu_two{
+  background-color:#222;
 }
 
 div {
   text-align: center;
   color: #fff;
-  margin-bottom: 50px;
+  margin-bottom:50px;
 }
 
 .btn--orange,
 a.btn--orange {
   color: #fff;
   background-color: #eb6100;
-  padding: 10px;
+  padding:10px;
   text-decoration: none;
 }
 .btn--orange:hover,
