@@ -15,7 +15,6 @@ body.hide-overflow {
 div {
   text-align: center;
   color: #fff;
-  margin-bottom:50px;
 }
 
 .btn--orange,
@@ -23,7 +22,6 @@ a.btn--orange {
   color: #fff;
   background-color: #eb6100;
   padding:10px;
-  text-decoration: none;
 }
 .btn--orange:hover,
 a.btn--orange:hover {

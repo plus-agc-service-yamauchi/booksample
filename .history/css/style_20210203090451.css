@@ -12,27 +12,9 @@ body.hide-overflow {
   /* overflow: hidden; */
 }
 
-div {
-  text-align: center;
-  color: #fff;
-  margin-bottom:50px;
-}
-
-.btn--orange,
-a.btn--orange {
-  color: #fff;
-  background-color: #eb6100;
-  padding:10px;
-  text-decoration: none;
-}
-.btn--orange:hover,
-a.btn--orange:hover {
-  color: #fff;
-  background: #f56500;
-}
-
-a.btn--radius {
-  border-radius: 100vh;
+div{
+  text-align:center;
+  color:#FFF;
 }
 
 /* helpers */
